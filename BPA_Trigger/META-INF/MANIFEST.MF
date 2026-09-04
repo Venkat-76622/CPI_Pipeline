@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: BPA_Trigger
 Bundle-SymbolicName: BPA_Trigger; singleton:=true
-Bundle-Version: 1.0.1
+Bundle-Version: 1.0.3
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
